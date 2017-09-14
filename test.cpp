@@ -2,5 +2,5 @@
 
 void test()
 {
-    cout << "test" << endl;
+    cout << "test..." << endl;
 }
